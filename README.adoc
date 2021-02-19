@@ -1,4 +1,6 @@
 = boot-cantaloupe project
+
+image:https://api.codacy.com/project/badge/Grade/0a5ae680f7754190ac2dd6abd62f5981[link="https://www.codacy.com/app/cmarting/boot-cantaloupe?utm_source=github.com&utm_medium=referral&utm_content=taxy4fun/boot-cantaloupe&utm_campaign=badger"]
 Madrid
 :icons: font
 :toc: left
